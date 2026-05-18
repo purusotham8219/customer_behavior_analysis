@@ -25,7 +25,6 @@ The objective of the project is to uncover insights related to:
 * Shopping behavior (Discount Applied, Shipping Type, Subscription Status)
 * Product feedback (Review Rating)
 
-
 # Tools & Technologies
 
 * Python
@@ -110,6 +109,7 @@ Built an interactive dashboard with:
 * Shipping Type
 * Subscription Status
 
+
 # Key Results
 
 * Male customers generated higher total revenue
@@ -134,7 +134,9 @@ Built an interactive dashboard with:
 1. Open Jupyter Notebook
 2. Install required libraries:
 
+```bash
 pip install pandas numpy sqlalchemy pymysql
+```
 
 3. Run the notebook cells step-by-step
 
@@ -152,8 +154,10 @@ pip install pandas numpy sqlalchemy pymysql
 3. Create visuals and dashboard
 4. Publish/export dashboard if needed
 
+
 # Project Structure
 
+```bash
 Customer-Shopping-Behavior-Analysis/
 │
 ├── data/
@@ -163,6 +167,8 @@ Customer-Shopping-Behavior-Analysis/
 ├── report/
 ├── presentation/
 └── README.md
+```
+
 
 ## Conclusion
 
