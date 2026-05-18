@@ -1,4 +1,4 @@
-Customer Shopping Behavior Analysis
+#Customer Shopping Behavior Analysis
 Overview
 
 This project analyzes customer shopping behavior using transactional retail data. The workflow covers data cleaning and exploratory data analysis (EDA) in Python, SQL-based business analysis, and dashboard creation in Power BI. A professional presentation and report were also created using Gamma and Power BI visuals.
