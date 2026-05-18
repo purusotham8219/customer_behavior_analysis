@@ -122,7 +122,4 @@ Customer-Shopping-Behavior-Analysis/
 ├── report/
 ├── presentation/
 └── README.md
-Author
 
-Purusotham Reddy
-MSc Data Analytics – TUS Ireland
