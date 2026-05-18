@@ -134,7 +134,6 @@ Built an interactive dashboard with:
 1. Open Jupyter Notebook
 2. Install required libraries:
 
-```bash
 pip install pandas numpy sqlalchemy pymysql
 
 3. Run the notebook cells step-by-step
@@ -155,7 +154,6 @@ pip install pandas numpy sqlalchemy pymysql
 
 # Project Structure
 
-```bash
 Customer-Shopping-Behavior-Analysis/
 │
 ├── data/
